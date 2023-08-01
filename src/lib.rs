@@ -30,7 +30,7 @@ pub enum TokenizeErrorKind {
     UnexpectedEndOfInput,
     Custom {
         message: &'static str,
-    }
+    },
 }
 
 #[derive(Debug)]

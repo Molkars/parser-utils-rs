@@ -1,2 +1,2 @@
+pub use super::{Error, ParseError, ParseErrorKind, TokenizeError, TokenizeErrorKind};
 
-pub use super::{TokenizeError, TokenizeErrorKind, ParseError, ParseErrorKind, Error};
